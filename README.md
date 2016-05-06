@@ -31,7 +31,7 @@
         议（VIP）和公共管理系统信息（CMIP）等；
             规定数据的传输协议；
         ps：OSI跟层级的关系和通讯时的数据流向如图所示：
-![各层级关系](OSI.png)
+![各层级关系](Image/OSI.png)
 ##3.应用层协议
         常见的应用层协议：
-![应用层协议](application.png)
+![应用层协议](Image/application.png)
